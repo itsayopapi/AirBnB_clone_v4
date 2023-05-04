@@ -156,7 +156,7 @@ No known bugs at this time.
 ## Authors
  TOKOLOGO Chabalala- [Github](https://github.com/Tokologo1)  
 Ayo Hassan- [Github](https://github.com/itsayopapi)
-  
+Princess Okonta- [Github] (https://github.com/OnyeEbube)  
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
